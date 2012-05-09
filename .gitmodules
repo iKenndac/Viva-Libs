@@ -1,0 +1,9 @@
+[submodule "bghudappkit/src"]
+	path = bghudappkit/src
+	url = git://github.com/binarygod/BGHUDAppKit.git
+[submodule "scribbler/src"]
+	path = scribbler/src
+	url = git://github.com/iKenndac/Scribbler.git
+[submodule "sparkle/src"]
+	path = sparkle/src
+	url = https://github.com/andymatuschak/Sparkle.git
